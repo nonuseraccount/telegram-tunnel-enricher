@@ -1,0 +1,4 @@
+{
+    "channel_config": "https://raw.githubusercontent.com/nonuseraccount/telegram-tunnel-scrapper/refs/heads/main/output/archive_files/archive_channel_configs.json",
+    "subscription_configs": "https://raw.githubusercontent.com/nonuseraccount/telegram-tunnel-scrapper/refs/heads/main/output/archive_files/archive_subscription_configs.json"
+}
